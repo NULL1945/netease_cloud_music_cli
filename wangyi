@@ -1,0 +1,3 @@
+#!/bin/sh
+php /bin/netease_cloud_music.php $1
+echo -e '\r'
